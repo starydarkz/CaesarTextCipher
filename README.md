@@ -3,6 +3,7 @@
 
 ## Requisitos
 pip3 install colorama
+python3
 
 
 ## Ejecucion
