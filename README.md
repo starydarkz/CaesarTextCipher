@@ -6,5 +6,5 @@ Herramienta para cifrar texto plano a Caesar con 3 pocisiciones.
 pip3 install colorama
 
 
-#Ejecucion
+# Ejecucion
 python3 CaesarCipher.py
