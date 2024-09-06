@@ -1,10 +1,16 @@
 ![](https://github.com/starydarkz/CaesarTextCipher/blob/main/image.png)
-# CaesarTextCipher
+# CaesarTextCipher PoC
+
+Prueba de concepto del Cifrado Caesar
 
 ## Requisitos
-pip3 install colorama
-python3
 
+```bash
+pip3 install colorama
+```
 
 ## Ejecucion
+
+```bash
 python3 CaesarCipher.py
+```
