@@ -1,4 +1,4 @@
-#By StaryDark    Telegram: Dark_Zly
+#By StaryDark - t.me/starydarkz
 """
 Version:1.0
 Requisitos:
